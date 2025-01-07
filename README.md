@@ -1,2 +1,2 @@
-# databrewers
-A hub for data engineers
+# databrewers.github.io
+A blog meant for data enthusiasts
